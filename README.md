@@ -11,16 +11,20 @@ Establish a replicable lead management framework across marketing and sales team
 
 ## Questions
 How does organizing lead data improve operational efficiency in marketing and sales?
+
 What steps can be taken to clean, structure, and import lead data effectively?
+
 How can SDRs utilize Salesforce to identify and prioritize leads?
+
 What communication and tracking features in Salesforce streamline lead nurturing?
+
 How does converting qualified leads into accounts and opportunities ensure better sales outcomes?
 
 ## Dataset Used
 - <a href="https://github.com/Paschal-lee/Streamlining-Lead-Management-for-SimplySocial-Using-Salesforce/blob/main/Inbound%20Leads_Data.csv">Dataset</a>
 
 ## Process
-Part A: Organizing Leads from Marketing
+### Part A: Organizing Leads from Marketing
 
 ### Data Cleaning and Structuring
 Updated missing job titles for leads by researching online.
